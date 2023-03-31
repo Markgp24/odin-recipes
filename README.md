@@ -1,1 +1,1 @@
-# odin-recipes
+Create a simple recipes page with an image
